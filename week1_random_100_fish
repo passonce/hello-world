@@ -16,3 +16,6 @@ while n <= 100:
     n = n + 1
     name = random.choice(fish_list)
     print(name)
+
+# date: 202307160814
+# ref. 42share.com/gpt/K5A3L2jinb
